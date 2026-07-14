@@ -1,49 +1,49 @@
-# Support
+# 帮助支持
 
-## 💬 Getting Help
+## 💬 获取帮助
 
-We're here to help! Here are the ways to get support for SystemDo projects.
+我们随时为您提供支持！以下是获取 SystemDo 项目帮助的途径。
 
-### 📖 Documentation
+### 📖 文档资料
 
-- Start with the [official documentation](https://systemdo.net)
-- Browse the [docs repository](https://github.com/systemdo-net/docs)
-- Check the [FAQ](https://github.com/systemdo-net/docs)
+- 从[官方文档](https://systemdo.net)开始了解
+- 浏览[文档中心仓库](https://github.com/systemdo-net/docs)
+- 查看[常见问题](https://github.com/systemdo-net/docs)
 
-### 📧 Contact
+### 📧 联系方式
 
-- **Email:** wo18672433344@gmail.com
-- **Website:** https://systemdo.net
-- **Location:** Dongguan, Guangdong, China · Cross-Border Industrial Park, Building A, Room 102
+- **邮箱：** wo18672433344@gmail.com
+- **官网：** https://systemdo.net
+- **地址：** 广东省东莞市常平镇跨境产业园A栋102
 
-### 🐛 Bug Reports
+### 🐛 提交 Bug
 
-Found a bug? Open an issue on the relevant GitHub repository with:
+发现 Bug？请在相关 GitHub 仓库提交 Issue，包含：
 
-- Clear description of the problem
-- Steps to reproduce
-- Expected vs. actual behavior
-- Environment details (OS, browser, versions)
+- 清晰的问题描述
+- 复现步骤
+- 预期行为与实际行为的对比
+- 运行环境信息（操作系统、浏览器、版本号）
 
-### 💡 Feature Requests
+### 💡 功能建议
 
-Have an idea? We'd love to hear it! Open an issue with the "enhancement" label and describe:
+有好的想法？我们非常乐意听取！提交带 "enhancement" 标签的 Issue，并说明：
 
-- What problem does it solve?
-- How would it work?
-- Who would benefit?
+- 解决了什么问题？
+- 功能如何运作？
+- 谁会从中受益？
 
-### 🏢 Enterprise Support
+### 🏢 企业服务支持
 
-For enterprise clients with active maintenance agreements:
+针对有运维服务协议的签约企业客户：
 
-- Dedicated support channels
-- Priority response times
-- Custom development requests
-- Deployment and maintenance assistance
+- 专属服务通道
+- 优先响应时间
+- 定制开发需求
+- 部署与运维支持
 
-Contact us at wo18672433344@gmail.com to discuss enterprise support options.
+请发送邮件至 wo18672433344@gmail.com 了解企业服务方案。
 
 ---
 
-**SystemDo — Enterprise Software That Delivers** 🚀
+**SystemDo — 让定制开发真正落地** 🚀
