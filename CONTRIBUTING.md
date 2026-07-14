@@ -1,49 +1,49 @@
-# Contributing to SystemDo
+# 参与贡献
 
-Thank you for your interest in contributing to SystemDo! 🎉
+感谢您对 SystemDo 的关注与贡献！🎉
 
-## 🤝 How to Contribute
+## 🤝 如何参与
 
-### Reporting Issues
+### 报告问题
 
-- Use the GitHub Issues tracker
-- Describe the issue clearly with steps to reproduce
-- Include relevant system information and screenshots
+- 使用 GitHub Issues 提交问题
+- 清晰描述问题并提供复现步骤
+- 附上相关系统信息和截图
 
-### Suggesting Enhancements
+### 功能建议
 
-- Open an issue with the "enhancement" label
-- Describe the feature and its value to users
-- Discuss the approach before implementing
+- 提交带 "enhancement" 标签的 Issue
+- 描述功能用途和对用户的价值
+- 在编码实现前先讨论方案思路
 
-### Pull Requests
+### 提交合并请求（Pull Request）
 
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
+1. Fork 本仓库
+2. 创建功能分支（`git checkout -b feature/新功能`）
+3. 提交修改（`git commit -m '添加新功能'`）
+4. 推送到分支（`git push origin feature/新功能`）
+5. 创建 Pull Request
 
-### Code Style
+### 代码风格
 
-- Follow the existing code style and conventions
-- Write clear commit messages
-- Include tests where applicable
-- Update documentation as needed
+- 遵循项目已有的代码风格和规范
+- 编写清晰的 Commit Message
+- 尽可能包含测试
+- 同步更新相关文档
 
-## 📋 Development Workflow
+## 📋 开发流程
 
-1. Pick an issue from the tracker
-2. Discuss the solution approach
-3. Implement with tests
-4. Submit for review
-5. Address feedback
+1. 从 Issue 中认领任务
+2. 讨论解决方案思路
+3. 编码实现并编写测试
+4. 提交代码待审核
+5. 根据反馈修改
 
-## 📧 Contact
+## 📧 联系我们
 
-- **Email:** wo18672433344@gmail.com
-- **Website:** https://systemdo.net
+- **邮箱：** wo18672433344@gmail.com
+- **官网：** https://systemdo.net
 
 ---
 
-Thank you for helping make SystemDo better! ❤️
+感谢您让 SystemDo 变得更好！❤️
