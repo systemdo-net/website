@@ -1,44 +1,44 @@
-# Security Policy
+# 安全策略
 
-## 🔒 Reporting a Vulnerability
+## 🔒 报告安全漏洞
 
-At **SystemDo**, we take security seriously. If you discover a security vulnerability, we appreciate your help in disclosing it responsibly.
+**SystemDo** 高度重视安全问题。如果您发现了安全漏洞，我们非常感谢您以负责任的方式进行披露。
 
-### How to Report
+### 报告方式
 
-- **Email:** wo18672433344@gmail.com
-- **Subject:** "Security Vulnerability Report — [Brief Description]"
+- **邮箱：** wo18672433344@gmail.com
+- **主题：** 「安全漏洞报告 — [简要描述]」
 
-### What to Include
+### 报告内容
 
-- Description of the vulnerability
-- Steps to reproduce
-- Potential impact
-- Suggested fix (if any)
+- 漏洞描述
+- 复现步骤
+- 潜在影响
+- 修复建议（如有）
 
-### Our Commitment
+### 我们的承诺
 
-- We will acknowledge your report within **48 hours**
-- We will provide a timeline for resolution within **7 days**
-- We will notify you when the vulnerability is resolved
-- We will credit you in the release notes (unless you prefer anonymity)
+- **48 小时内**确认收到报告
+- **7 天内**给出解决时间表
+- 漏洞修复后通知您
+- 在更新日志中致谢（除非您选择匿名）
 
-## 🛡️ Supported Versions
+## 🛡️ 支持版本
 
-| Version | Supported |
-|---------|-----------|
-| Latest | ✅ Active |
-| Previous | ⚠️ Security fixes only |
-| Older | ❌ Unsupported |
+| 版本 | 支持状态 |
+|------|---------|
+| 最新版 | ✅ 积极支持 |
+| 上一版 | ⚠️ 仅安全修复 |
+| 更早版本 | ❌ 不再支持 |
 
-## 🔐 Best Practices
+## 🔐 安全最佳实践
 
-- Always use the latest version
-- Follow our deployment guide for production setups
-- Keep dependencies updated
-- Use HTTPS for all communications
-- Never commit secrets or credentials to the repository
+- 始终使用最新版本
+- 生产环境部署请参考我们的部署运维指南
+- 及时更新依赖项
+- 所有通信使用 HTTPS
+- 切勿将密码或密钥提交到仓库
 
 ---
 
-**SystemDo Security Team**
+**SystemDo 安全团队**
